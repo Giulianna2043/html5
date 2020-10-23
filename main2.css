@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: gold;
+    display: flex;
+    height: 50px;
+}
+
+.container {
+    display: flex;
+    height: 200px;
+}
+
+video {
+    margin: 60px;
+    width: 90%;
+    height: 300px;
+}
+
+.box-container {
+    margin: 0 10%;
+}
+
+.container .box {
+    height: 110px;
+    width: 200px;
+    margin: 10px 10px;
+}
+
+.cuadro {
+    background-color: rgb(228, 94, 117);
+}
+
+.cuadro1 {
+    background-color: rgb(233, 230, 70);
+}
+
+.cuadro2 {
+    background-color: rgb(28, 92, 230);
+}
+
+.cuadro3 {
+    background-color: rgb(84, 230, 92);
+}
+
+.cuadro4 {
+    background-color: pink;
+}
+
+footer {
+    background: gold;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gold;
+    text-align: center;
+}
